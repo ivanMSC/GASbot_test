@@ -1,4 +1,4 @@
-Fecha,CUT,Comuna,Region,Casos Acumulados
+Fecha,CUT,Comuna,Region,Confirmados Acumulados
 18-03-2020,15101,Arica,Arica y Parinacota,1
 19-03-2020,15101,Arica,Arica y Parinacota,1
 20-03-2020,15101,Arica,Arica y Parinacota,1
@@ -2924,24 +2924,24 @@ Fecha,CUT,Comuna,Region,Casos Acumulados
 09-04-2020,12101,Punta Arenas,Magallanes,264
 10-04-2020,12101,Punta Arenas,Magallanes,309
 11-04-2020,12101,Punta Arenas,Magallanes,349
-25-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,2
-26-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,2
-27-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,2
-28-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,2
-29-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-30-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-31-03-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-01-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-02-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-03-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-04-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,6
-05-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,9
-06-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,10
-07-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,12
-08-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,12
-09-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,13
-10-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,13
-11-04-2020,12201,Cabo de Hornos (Puerto Williams),Magallanes,18
+25-03-2020,12201,Cabo de Hornos,Magallanes,2
+26-03-2020,12201,Cabo de Hornos,Magallanes,2
+27-03-2020,12201,Cabo de Hornos,Magallanes,2
+28-03-2020,12201,Cabo de Hornos,Magallanes,2
+29-03-2020,12201,Cabo de Hornos,Magallanes,6
+30-03-2020,12201,Cabo de Hornos,Magallanes,6
+31-03-2020,12201,Cabo de Hornos,Magallanes,6
+01-04-2020,12201,Cabo de Hornos,Magallanes,6
+02-04-2020,12201,Cabo de Hornos,Magallanes,6
+03-04-2020,12201,Cabo de Hornos,Magallanes,6
+04-04-2020,12201,Cabo de Hornos,Magallanes,6
+05-04-2020,12201,Cabo de Hornos,Magallanes,9
+06-04-2020,12201,Cabo de Hornos,Magallanes,10
+07-04-2020,12201,Cabo de Hornos,Magallanes,12
+08-04-2020,12201,Cabo de Hornos,Magallanes,12
+09-04-2020,12201,Cabo de Hornos,Magallanes,13
+10-04-2020,12201,Cabo de Hornos,Magallanes,13
+11-04-2020,12201,Cabo de Hornos,Magallanes,18
 28-03-2020,12401,Natales,Magallanes,1
 29-03-2020,12401,Natales,Magallanes,1
 30-03-2020,12401,Natales,Magallanes,3
